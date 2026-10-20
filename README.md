@@ -1,2 +1,3 @@
-# docqa-agent
-DocQA Agent — chat over a knowledge base with retrieval + tool-calling (live demo)
+# DocQA Agent
+
+Chat over a fixed knowledge base with TF-IDF retrieval (demo RAG).
